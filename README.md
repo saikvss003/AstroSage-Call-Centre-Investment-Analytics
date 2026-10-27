@@ -97,14 +97,9 @@ Chart visuals for call volume trends, revenue mix, satisfaction distribution, an
 
 | File | Description |
 |---|---|
-| [Google Sheets](https://docs.google.com/spreadsheets/d/1lxsGJSC43lMVkIjWxjiGineAWdiriz5c0xexX-jJiyQ/edit?gid=1937469484#gid=1937469484)
- | Cleaned data, 17 analysis sheets (PivotTables/charts per question), and the interactive dashboard |
-
+| [Astrosage Analysis Google Sheet](https://docs.google.com/spreadsheets/d/1yH5LyU-wibVko9ggRr-_bcIgRvQDphZXT1r3dkAWcgs/edit?gid=726910250#gid=726910250) | Cleaned data, 17 analysis sheets (PivotTables/charts per question), and the interactive dashboard |
 | [Presentation Deck](./183.pptx) | Full findings deck with charts and the ₹1 crore allocation plan |
-
 | [Written Report](./183.docx) | Full written analysis - question, approach, insights, and recommendations for all 24 questions |
-
----
 
 # 🙌 Reflection :-
 
