@@ -36,7 +36,7 @@ Built as part of the Data Analytics, Engineering & Science program at Newton Sch
 # 🛠️ Tools & Techniques :-
 
 **Tool**
-- Microsoft Excel
+- Google Spreadsheet
 
 **Techniques**
 - PivotTables & PivotCharts
@@ -88,7 +88,8 @@ Built as part of the Data Analytics, Engineering & Science program at Newton Sch
 
 # 📊 Dashboard :-
 
-An interactive Excel dashboard with KPI cards (total calls, average rating, net revenue, average call duration) and PivotChart visuals for call volume trends, revenue mix, satisfaction distribution, and top/bottom guru performance - filterable via Date, Website, and Consultation Type slicers.
+An interactive Excel dashboard with KPI cards (Astrologer Earnings, No of Gurus, net revenue across consultations, average calls / Day) and Pivot 
+Chart visuals for call volume trends, revenue mix, satisfaction distribution, and top/bottom guru performance - filterable via Date, Website, and Consultation Type slicers.
 
 ---
 
@@ -96,15 +97,15 @@ An interactive Excel dashboard with KPI cards (total calls, average rating, net 
 
 | File | Description |
 |---|---|
-| [Excel Workbook](./183.xlsx) | Cleaned data, 17 analysis sheets (PivotTables/charts per question), and the interactive dashboard |
-
-[View the SQL Spreadsheet](https://docs.google.com/spreadsheets/d/1yH5LyU-wibVko9ggRr-_bcIgRvQDphZXT1r3dkAWcgs/edit?gid=726910250#gid=726910250)
+| [Google Sheets](https://docs.google.com/spreadsheets/d/1lxsGJSC43lMVkIjWxjiGineAWdiriz5c0xexX-jJiyQ/edit?gid=1937469484#gid=1937469484)
+ | Cleaned data, 17 analysis sheets (PivotTables/charts per question), and the interactive dashboard |
 
 | [Presentation Deck](./183.pptx) | Full findings deck with charts and the ₹1 crore allocation plan |
+
 | [Written Report](./183.docx) | Full written analysis - question, approach, insights, and recommendations for all 24 questions |
 
 ---
 
 # 🙌 Reflection :-
 
-This project moved beyond single-formula answers into full PivotTable-driven analysis, correlation testing, and workload/performance diagnostics - then tied every finding back to a justified ₹1 crore allocation across five initiatives. Built as part of my transition into data analytics, on top of 3+ years in support and product roles.
+This project moved beyond single-formula answers into full PivotTable-driven analysis, correlation testing, and workload/performance diagnostics - then tied every finding back to a justified ₹1 crore allocation across five initiatives.
