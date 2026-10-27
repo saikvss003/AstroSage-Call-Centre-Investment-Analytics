@@ -97,6 +97,9 @@ An interactive Excel dashboard with KPI cards (total calls, average rating, net 
 | File | Description |
 |---|---|
 | [Excel Workbook](./183.xlsx) | Cleaned data, 17 analysis sheets (PivotTables/charts per question), and the interactive dashboard |
+
+[View the SQL Spreadsheet](https://docs.google.com/spreadsheets/d/1yH5LyU-wibVko9ggRr-_bcIgRvQDphZXT1r3dkAWcgs/edit?gid=726910250#gid=726910250)
+
 | [Presentation Deck](./183.pptx) | Full findings deck with charts and the ₹1 crore allocation plan |
 | [Written Report](./183.docx) | Full written analysis - question, approach, insights, and recommendations for all 24 questions |
 
